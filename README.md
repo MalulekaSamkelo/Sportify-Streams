@@ -1,2 +1,2 @@
 # Sportify-Streams
-Interacctive dashboard analyze sportify streams.
+Interactive dashboard analyze sportify streams.
